@@ -13,7 +13,7 @@
 - 🌱 Currently learning **CSS**, **Git**, and **ethical hacking using Termux**  
 - 🛠️ Building cool front-end stuff & messing around with tools  
 - ⚡ Fun Fact: I debug faster when the Wi-Fi's off  
-- 📬 Email me: chirag@example.com *(replace with your real one, obviously)*  
+- 📬 Email me: chiragchahal30@gmail.com  
 
 ---
 
@@ -44,31 +44,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=dracula&row=1&column=7"/>
 </p>
 
----
-
-### 📌 Currently Pinned Projects
-
-> Go to your profile → “Customize your pins” → pin your best repos  
-> Show off anything you're proud of — even basic HTML/CSS projects
 
 ---
 
 ### 😎 Vibe Check
 
 > *"I don't just write code... I write code that vibes."*  
-> - Chirag, probably at 2:30am with Red Bull in hand 🐉
+> - Chirag, probably at 12:30am with coffee in hand 🐉
 
----
 
-> 💡 Tip: Don’t be afraid to push messy code — GitHub is for growth, not perfection. Show that journey.
-
----
-
-🔗 Let me know when you're ready to link your portfolio or social profiles — I can update this bad boi for you in 5 secs.
-
-Oh, and don't forget to replace all the `your-username` parts with **your real GitHub username**!
-
----
-
-You want a dark mode version too? Or want it to look like a hacker's terminal? Just say the word, and I’ll cook that up too. 😎💻  
-Ready to rule GitHub like a boss?
