@@ -1,8 +1,8 @@
 <h1 align="center">Yo 👋, I'm Chirag</h1>
-<h3 align="center">BCA Student | Future Hacker 💻 | Coffee-powered Coder ☕</h3>
+<h3 align="center">BCA Student | Coffee-powered Coder ☕</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Learning+Ethical+Hacking+with+Termux;Mastering+HTML+%2B+CSS+Basics;Building+Something+Cool+Every+Week" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Mastering+HTML+%2B+CSS+Basics;Building+Something+Cool+Every+Week" alt="Typing SVG" />
 </p>
 
 ---
